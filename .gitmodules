@@ -1,0 +1,15 @@
+[submodule "esp32udpcontroller"]
+	path = esp32udpcontroller
+	url = git@github.com:pawngames/esp32udpcontroller.git
+[submodule "robomaker"]
+	path = robomaker
+	url = git@github.com:pawngames/robomaker.git
+[submodule "flightattack"]
+	path = flightattack
+	url = git@github.com:pawngames/flightattack.git
+[submodule "micropinball"]
+	path = micropinball
+	url = git@github.com:pawngames/micropinball.git
+[submodule "isomovement"]
+	path = isomovement
+	url = git@github.com:pawngames/isomovement.git
